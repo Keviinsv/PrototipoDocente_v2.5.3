@@ -1,0 +1,7 @@
+# requirements.txt
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Bcrypt
+gunicorn 
+# Asegúrate de incluir cualquier otra librería que uses, si la hay.
